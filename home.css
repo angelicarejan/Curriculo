@@ -1,0 +1,110 @@
+
+#div0 {
+    width: 800px;
+    height: 100px;
+        bottom: 25px;
+   left: 10px;
+}
+
+#div0 p {
+    font-size: 80px;
+	
+}
+
+
+img {
+    width: 200px;
+    height: 350px;
+}
+
+main {
+    width: 1000px;
+    height: 1400px;
+    margin: 30px auto;
+    position: relative
+	
+}
+h2 {
+  font-family: Georgia;
+}
+
+h3 {
+    
+  font-size: 14px;
+  line-height: 2;
+  letter-spacing: 1px;
+}
+
+
+section {
+    color: #FFFAF0;
+    background-color: #2F4F4F;
+    width: 800px;
+    height: 1200px;
+    position: absolute;
+    right: 0px;
+	}
+
+#foto {
+    width: 400px;
+    height: 600px;
+    position: absolute;
+    top: 20px;
+    left: 0px;
+}
+
+h1 {
+  border-bottom: 3px solid #aaa;
+  background-color: #3b3b3b;
+  color: #ddd;
+  padding: 5px;
+}
+
+h2 {
+  border-top: 1px solid #ccc;
+  border-bottom: 1px solid #ccc;
+  background-color: #708090;
+  padding-left: 5px;
+  margin: 0 0 0 -10px;
+  font-weight: normal;
+}
+
+li {
+  font-size: 14px;
+  line-height: 2;
+  letter-spacing: 1px;
+  margin: 01px;
+}
+
+#div1 {
+   width: 800px;
+    height: 450px;
+    position: absolute;
+    top: 250px;
+	left: 10px;
+	}
+
+
+#div2 {
+     width: 800px;
+    height: 450px;
+    position: absolute;
+    top: 450px;
+	left: 10px;
+}
+
+#div3 {
+    width: 800px;
+    height: 450px;
+    position: absolute;
+    top: 550px;
+	left: 10px;
+}
+
+#div4 {
+    width: 800px;
+    height: 450px;
+    position: absolute;
+    top: 1050px;
+	left: 10px;
+}
